@@ -1,5 +1,8 @@
 # Mastering GIT Workshop
 
+Do the following steps to prepare the working environment
+for the workshop. You will be working in pairs, so one repo/
+2 sudents are enough.
 
 ## Create a new repo from the template
 
