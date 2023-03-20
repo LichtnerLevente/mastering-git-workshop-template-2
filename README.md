@@ -1,8 +1,7 @@
 # Mastering GIT Workshop
 
-## Preparing the repo
 
-### Create a new repo from the template
+## Create a new repo from the template
 
 ![Use this template screenshot](./docs/guide-use-template.png)
 
@@ -17,7 +16,7 @@
 4. You can keep include all branches unchecked.
 5. Click on the create repository
 
-### Invite your peer to your new repo
+## Invite your peer to your new repo
 
 Navigate to your newly created repo in your Github account.
 
@@ -27,6 +26,12 @@ Navigate to your newly created repo in your Github account.
 2. Click to **Collaborators** on the sidebar.
 3. Use the **Add people** button to add your peer as a collaborator to your repo.
 
-### Clone the repository as usual
+## Clone the repository as usual
 
 1. Clone you and your peer the repo as usual.
+
+## Install the Git Graph VS Code extension
+
+1. Click on the Extensions pane in VS Code
+2. Search for "Git Graph" [VS Code Marketplace: Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+3. Install and Enable it.
