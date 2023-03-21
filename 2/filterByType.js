@@ -6,7 +6,7 @@
 //  a <type> argument is given, show only the beers
 //  with the given type only.
 
-const getBeers = require('./data')
+const getBeers = require('../data')
 
 function main(type) {
     console.log('type:', type)
