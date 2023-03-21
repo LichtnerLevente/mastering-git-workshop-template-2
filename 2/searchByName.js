@@ -5,7 +5,7 @@
 //  `${name} (${brewery})`. If a <keyword> is given, show only
 //  those beers where the beer name includes that keyword.
 
-const getBeers = require('./data')
+const getBeers = require('../data')
 
 
 function main(keyword) {
