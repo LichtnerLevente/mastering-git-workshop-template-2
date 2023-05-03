@@ -1,11 +1,13 @@
 // Usage: node showFirst.js
 
-// Feature: Show the first beer in a `${name} (${brewery})` format 
-// in the console.
-
 const getBeers = require('../data')
 
-function main() {
+function getFirstBeer() {
+    // TODO: return the first beer object (use `getBeers` for the solution)
 }
 
-main()
+if (getFirstBeer().name === "Rivet red") {
+    console.log("Success ✅");
+} else {
+    console.log("Not quite right");
+}

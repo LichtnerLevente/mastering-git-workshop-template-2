@@ -1,11 +1,13 @@
 // Usage: node showLast.js
 
-// Feature: Show the last beer in a `${name} (${brewery})` format 
-// in the console.
-
 const getBeers = require('../data')
 
-function main() {
+function getLastBeer() {
+    // TODO: return the last beer object (use `getBeers` for the solution)
 }
 
-main()
+if (getLastBeer().name === "All the Leaves are Brown") {
+    console.log("Success ✅");
+} else {
+    console.log("Not quite right");
+}
